@@ -105,6 +105,7 @@ header {
   flex-flow: column;
   justify-content: space-evenly;
   align-items: center;
+  color: hsl(0, 0%, 100%);
 }
 
 .info-item > h1 {
